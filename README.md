@@ -1,4 +1,4 @@
-# Harmonization-of-CT-convolution-kernels
+# Harmonization-of-CT-Convolution-Kernels
 
 Two models used for hrmonization of CT reconstruction kernels:
 
