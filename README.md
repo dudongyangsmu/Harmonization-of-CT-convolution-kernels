@@ -6,4 +6,5 @@ Model CNNa was applied to convert reconstruction kernels from sharp (ie,Siemens 
 Model CNNb was applied to convert reconstruction kernels from smooth (ie, Siemens B30f, GE Standard, Soft) to sharp (ie, Siemens B70f).
 
 Environments
+
 ubuntu 14.04 LTS, python 3.7, Pytorch framework.
